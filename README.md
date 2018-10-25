@@ -1,1 +1,3 @@
-# stereo_uav_slam
+# Stereo Visual SLAM package for UAVs
+
+To be updated.
